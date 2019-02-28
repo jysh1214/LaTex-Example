@@ -1,3 +1,3 @@
 # LaTex-Example
 ## How to compile
-""" XeLaTex ->  BibTex -> XeLaTex """
+XeLaTex ->  BibTex -> XeLaTex
